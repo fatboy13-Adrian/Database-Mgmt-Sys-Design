@@ -1,0 +1,3 @@
+Dear Student,
+
+Please execute hr_main to create the whole database.
